@@ -20,7 +20,7 @@ html {
 .li-navbar {
     list-style-type: none;
     padding: 20px;
-    margin: 5px;
+    margin-bottom: 40px;
     color: grey;
     font-size: 30px;
 }
@@ -40,9 +40,9 @@ html {
 .a-content{
     color: black;
     text-decoration: none;
-    font-size: 30px;
-    width: 720px;
-    height: 480px;
+    font-size: 15px;
+    width: 45%;
+    height: 75%;
     background-color: white;
     display: flex;
     justify-content: space-evenly;
